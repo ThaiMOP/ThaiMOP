@@ -1,0 +1,396 @@
+
+    body{
+      font-family: "Anuphan", sans-serif;
+      background-color: #ffe8dd;
+      color: white;
+      align-items: center;
+      margin: 0;
+    }
+
+    a {
+      color: unset;
+    }
+
+    [data-flex] {
+      display: flex;
+      text-align: center;
+      align-items: center;
+      justify-self: center;
+      gap: 10px;
+    }
+
+    body > h1 {
+      margin-top: 80px
+    }
+    .aa{
+
+    width:50%;
+    height: 50%;
+
+    }
+    h1{
+    size: 20px;
+    text-align: center;
+    }
+    #TH-10{
+    fill: var(--red);
+    }
+
+    #TH-11{
+    fill: var(--blue);
+    }
+
+    #TH-12{
+    fill: var(--blue);
+    }
+
+    #TH-13{
+    fill: var(--blue);
+    }
+
+    #TH-14{
+    fill: var(--red);
+    }
+
+    #TH-15{
+    fill: var(--blue);
+    }
+
+    #TH-16{
+    fill: var(--blue);
+    }
+
+    #TH-17{
+    fill: var(--blue);
+    }
+
+    #TH-18{
+    fill: var(--blue);
+    }
+
+    #TH-19{
+    fill: var(--blue);
+    }
+
+    #TH-20{
+    fill: var(--red);
+    }
+
+    #TH-21{
+    fill: var(--blue);
+    }
+
+    #TH-22{
+    fill: var(--blue);
+    }
+
+    #TH-23{
+    fill: var(--blue);
+    }
+
+    #TH-24{
+    fill: var(--blue);
+    }
+
+    #TH-25{
+    fill: var(--blue);
+    }
+
+    #TH-26{
+    fill: var(--blue);
+    }
+
+    #TH-27{
+    fill: var(--blue);
+    }
+
+
+    #TH-30{
+    fill: var(--red);
+    }
+
+    #TH-31{
+    fill: var(--blue);
+    }
+
+    #TH-32{
+    fill: var(--red);
+    }
+
+    #TH-33{
+    fill: var(--red);
+    }
+
+    #TH-34{
+    fill: var(--blue);
+    }
+
+    #TH-35{
+    fill: var(--blue);
+    }
+
+    #TH-36{
+    fill: var(--blue);
+    }
+
+    #TH-37{
+    fill: var(--blue);
+    }
+
+    #TH-38{
+    fill: var(--blue);
+    }
+
+    #TH-39{
+    fill: var(--blue);
+    }
+
+    #TH-40{
+    fill: var(--blue);
+    }
+
+    #TH-41{
+    fill: var(--blue);
+    }
+
+    #TH-42{
+    fill: var(--blue);
+    }
+
+    #TH-43{
+    fill: var(--blue);
+    }
+
+    #TH-44{
+    fill: var(--blue);
+    }
+
+    #TH-45{
+    fill: var(--blue);
+    }
+
+    #TH-46{
+    fill: var(--blue);
+    }
+
+    #TH-47{
+    fill: var(--blue);
+    }
+
+    #TH-48{
+    fill: var(--blue);
+    }
+
+    #TH-49{
+    fill: var(--blue);
+    }
+
+    #TH-50{
+    fill: var(--red);
+    }
+    #TH-51{
+    fill: var(--red);
+    }
+    #TH-52{
+    fill: var(--red);
+    }
+
+    #TH-53{
+    fill: var(--red);
+    }
+
+    #TH-54{
+    fill: var(--red);
+    }
+
+    #TH-55{
+    fill: var(--red);
+    }
+
+    #TH-56{
+    fill: var(--red);
+    }
+
+    #TH-57{
+    fill:var(--red);
+    }
+
+    #TH-58{
+    fill: var(--red);
+    } 
+    #TH-60{
+    fill: var(--blue);
+    }
+
+    #TH-61{
+    fill: var(--blue);
+    } 
+
+    #TH-62{
+    fill: var(--blue);
+    } 
+    #TH-63{
+    fill: var(--blue);
+    } 
+
+    #TH-64{
+    fill: var(--red);
+    } 
+
+    #TH-65{
+    fill: var(--red);
+    } 
+
+    #TH-66{
+    fill: var(--red);
+    } 
+
+    #TH-67{
+    fill: var(--blue);
+    } 
+
+    #TH-68{
+    fill: black;
+    } 
+
+    #TH-70{
+    fill: var(--blue);
+    } 
+
+    #TH-71{
+    fill: var(--blue);
+    } 
+
+    #TH-72{
+    fill: var(--blue);
+    } 
+
+    #TH-73{
+    fill: var(--blue);
+    } 
+
+    #TH-74{
+    fill: var(--blue);
+    } 
+
+    #TH-75{
+    fill: var(--blue);
+    } 
+
+    #TH-76{
+    fill: var(--blue);
+    } 
+
+    #TH-77{
+    fill: var(--blue);
+    } 
+
+    #TH-80{
+    fill: var(--blue);
+    } 
+
+    #TH-81{
+    fill: var(--blue);
+    } 
+
+    #TH-82{
+    fill: var(--blue);
+    } 
+
+    #TH-83{
+    fill: var(--blue);
+    } 
+
+    #TH-84{
+    fill: var(--blue);
+    } 
+
+    #TH-85{
+    fill: var(--blue);
+    } 
+
+    #TH-86{
+    fill: var(--blue);
+    } 
+
+    #TH-90{
+    fill: var(--blue);
+    } 
+
+    #TH-91{
+    fill: var(--blue);
+    } 
+
+    #TH-92{
+    fill: var(--blue);
+    } 
+
+    #TH-93{
+    fill: var(--blue);
+    } 
+
+    #TH-94{
+    fill: var(--blue);
+    } 
+
+    #TH-95{
+    fill: var(--blue);
+    } 
+
+    #TH-96{
+    fill: var(--blue);
+    } 
+    #TH-LKSG{
+    fill: var(--nocol);
+    }
+
+    :root{
+        --red: #ff3232;
+        --blue: #150000;
+        --nocol: transparent;
+    }
+    .red{
+        color: var(--red);
+    }
+    .blue{
+        color: var(--blue);
+    }
+    [data-w="50"] {
+      width: 50px;
+    }
+    
+    header {
+      background: #00d230;
+      padding: 8px;
+      position: fixed;
+      top: 0;
+      width: -webkit-fill-available;
+    }
+
+    [data-flex-true] {
+      display: flex;
+    }
+
+    [data-flex-a] {
+      gap: 10px;
+      align-items: center;
+    }
+
+    header h1 {
+      margin: 0;
+      font-size: 24px;
+    }
+
+    [data-space-bet] {
+      justify-content: space-between;
+    }
+
+    [data-tiktok-icon] {
+        font-size: 24px;
+        display: flex;
+        align-items: center;
+    }
+
+    [data-padding="20"] {
+      padding: 8px 20px;
+    }
