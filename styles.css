@@ -33,11 +33,11 @@
     text-align: center;
     }
     #TH-10{
-    fill: var(--red);
+    fill: var(--pple);
     }
 
     #TH-11{
-    fill: var(--red);
+    fill: var(--pple);
     }
 
     #TH-12{
@@ -49,7 +49,7 @@
     }
 
     #TH-14{
-    fill: var(--red);
+    fill: var(--bjt);
     }
 
     #TH-15{
@@ -69,11 +69,11 @@
     }
 
     #TH-19{
-    fill: var(--red);
+    fill: var(--noparty);
     }
 
     #TH-20{
-    fill: var(--red);
+    fill: var(--pple);
     }
 
     #TH-21{
@@ -89,7 +89,7 @@
     }
 
     #TH-24{
-    fill: var(--red);
+    fill: var(--ptp);
     }
 
     #TH-25{
@@ -97,7 +97,7 @@
     }
 
     #TH-26{
-    fill: var(--red);
+    fill: var(--ptp);
     }
 
     #TH-27{
@@ -106,7 +106,7 @@
 
 
     #TH-30{
-    fill: var(--red);
+    fill: var(--ptp);
     }
 
     #TH-31{
@@ -114,15 +114,15 @@
     }
 
     #TH-32{
-    fill: var(--red);
+    fill: var(--bjt);
     }
 
     #TH-33{
-    fill: var(--red);
+    fill: var(--ptp);
     }
 
     #TH-34{
-    fill: var(--red);
+    fill: var(--ptp);
     }
 
     #TH-35{
@@ -186,63 +186,63 @@
     }
 
     #TH-50{
-    fill: var(--red);
+    fill: var(--pple);
     }
     #TH-51{
-    fill: var(--red);
+    fill: var(--noparty);
     }
     #TH-52{
-    fill: var(--red);
+    fill: var(--pple);
     }
 
     #TH-53{
-    fill: var(--red);
+    fill: var(--ptp);
     }
 
     #TH-54{
-    fill: var(--red);
+    fill: var(--ptp);
     }
 
     #TH-55{
-    fill: var(--red);
+    fill: var(--ptp);
     }
 
     #TH-56{
-    fill: var(--red);
+    fill: var(--kt);
     }
 
     #TH-57{
-    fill:var(--red);
+    fill:var(--ptp);
     }
 
     #TH-58{
-    fill: var(--red);
+    fill: var(--noparty);
     } 
     #TH-60{
     fill: var(--blue);
     }
 
     #TH-61{
-    fill: var(--red);
+    fill: var(--bjt);
     } 
 
     #TH-62{
-    fill: var(--red);
+    fill: var(--kt);
     } 
     #TH-63{
-    fill: var(--red);
+    fill: var(--pple);
     } 
 
     #TH-64{
-    fill: var(--red);
+    fill: var(--ptp);
     } 
 
     #TH-65{
-    fill: var(--red);
+    fill: var(--ptp);
     } 
 
     #TH-66{
-    fill: var(--red);
+    fill: var(--bjt);
     } 
 
     #TH-67{
@@ -254,15 +254,15 @@
     } 
 
     #TH-70{
-    fill: var(--red);
+    fill: var(--kt);
     } 
 
     #TH-71{
-    fill: var(--red);
+    fill: var(--ptp);
     } 
 
     #TH-72{
-    fill: var(--red);
+    fill: var(--cp);
     } 
 
     #TH-73{
@@ -278,7 +278,7 @@
     } 
 
     #TH-76{
-    fill: var(--red);
+    fill: var(--utn);
     } 
 
     #TH-77{
@@ -345,8 +345,15 @@
     }
 
     :root{
-        --red: #ff3232;
-        --blue: #150000;
+        --bjt: #312783; /* ภท */
+        --utn: #121F91; /* รทสช */
+        --pple: #FF6413; /* ปชน */
+        --red: #ff3232; /* พท */
+        --ptp: #ff3232; /* พท */
+        --kt: #4EC86F; /* กธ */
+        --cp: #E90080; /* ชทพ */
+        --blue: #150000; /* ยังไม่ทำ */
+        --noparty: #eee; /* ไม่มีใครได้เสียงข้างมาก */
         --nocol: transparent;
     }
     .red{
