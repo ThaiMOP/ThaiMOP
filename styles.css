@@ -32,6 +32,11 @@
     size: 20px;
     text-align: center;
     }
+
+    path {
+        stroke: #ffffff;
+    }
+
     #TH-10{
     fill: var(--pple);
     }
